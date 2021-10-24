@@ -3,6 +3,8 @@
 
 Site de uma barbearia.
 
+ https://laarissagoncalves.github.io/pbarbeariaalura/
+
 Utilizando html5 e css3.
 
 ![image](https://user-images.githubusercontent.com/86576676/136898009-336e1c80-5f6f-4617-b952-d430167f21f5.png)
